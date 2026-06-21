@@ -4,7 +4,7 @@ I'm Levi, a frontend & mobile developer based in Norway.
 
 I recently graduated with a Bachelor's in Frontend and Mobile Development. Before that I worked as a baker's apprentice. Turns out structure, planning, and an eye for detail matter just as much when you're writing code as when you're baking bread.
 
-***My main tech stack is React, TypeScript, React Native, Kotlin, and Swift.***
+***My main tech stack is React, TypeScript, React Native, and Swift.***
 
 
 **Fun Facts:**
