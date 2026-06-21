@@ -41,3 +41,4 @@ My main tech stack is React, TypeScript, React Native, Kotlin, and Swift.
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
+![Agile Methodology](https://img.shields.io/badge/-Agile%20Methodology-555555?style=flat-square)
