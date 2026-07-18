@@ -10,7 +10,7 @@ I recently graduated with a Bachelor's in Frontend and Mobile Development. Befor
 **Fun Facts:**
 - I have a surprisingly large collection of whisks
 - Two time norwegian champion in accordion
-- I collect video games
+- I can easily read a hundred books in one summer
 
 **Hobbies:** reading, food, and eating ice cream
 
